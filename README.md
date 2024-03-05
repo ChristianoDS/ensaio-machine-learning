@@ -74,21 +74,21 @@ dados.
 ## Ensaio de classificação:
 ### Sobre os dados de treinamento
 ![classificacao_treinamento](
-img/ensaio_classificacao_dados_treinamento.png)
+![image](https://github.com/ChristianoDS/ensaio-machine-learning/assets/103225340/f308b8bd-3574-4185-b8b3-043cb9932654)
 ### Sobre os dados de validação
 ![classificacao_validacao](
-img/ensaio_classificacao_dados_validacao.png)
+![image](https://github.com/ChristianoDS/ensaio-machine-learning/assets/103225340/356ff481-4b97-4792-a3d3-073bf2514b88)
 ### Sobre os dados de teste
-![classificacao_teste]( img/ensaio_classificacao_dados_teste.png)
+![image](https://github.com/ChristianoDS/ensaio-machine-learning/assets/103225340/a24e7f10-8ee9-4fbe-a93f-cb4df6e79e02)
 ## Ensaio de regressão:
 ### Sobre os dados de treinamento
-![regressao_treinamento]( img/ensaio_regressao_dados_treinamento.png)
+![image](https://github.com/ChristianoDS/ensaio-machine-learning/assets/103225340/56851019-99db-43d0-90f3-6238ea65804b)
 ### Sobre os dados de validação
-![regressao_validacao]( img/ensaio_regressao_dados_validacao.png)
+![image](https://github.com/ChristianoDS/ensaio-machine-learning/assets/103225340/5d09e8e1-1545-4604-9381-850501efb536)
 ### Sobre os dados de teste
-![regressao_teste]( img/ensaio_regressao_dados_teste.png)
+![image](https://github.com/ChristianoDS/ensaio-machine-learning/assets/103225340/ff100eda-a008-42bf-80fe-9df0d8beb100)
 ## Ensaio de clusterização:
-![clusterizacao_treinamento]( img/ensaio_clusterizacao.png)
+![image](https://github.com/ChristianoDS/ensaio-machine-learning/assets/103225340/f3030416-6827-4ceb-91b4-913e93f5a59d)
 # Conclusão
 Nesse ensaio de Machine Learning, consegui adquirir experiência e
 entender melhor sobre os limites dos algoritmos entre os estados de
