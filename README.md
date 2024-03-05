@@ -73,10 +73,8 @@ dados.
 # Resultados
 ## Ensaio de classificação:
 ### Sobre os dados de treinamento
-![classificacao_treinamento](
 ![image](https://github.com/ChristianoDS/ensaio-machine-learning/assets/103225340/f308b8bd-3574-4185-b8b3-043cb9932654)
 ### Sobre os dados de validação
-![classificacao_validacao](
 ![image](https://github.com/ChristianoDS/ensaio-machine-learning/assets/103225340/356ff481-4b97-4792-a3d3-073bf2514b88)
 ### Sobre os dados de teste
 ![image](https://github.com/ChristianoDS/ensaio-machine-learning/assets/103225340/a24e7f10-8ee9-4fbe-a93f-cb4df6e79e02)
