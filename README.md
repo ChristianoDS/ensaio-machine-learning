@@ -10,6 +10,8 @@ O objetivo desse projeto será realizar ensaios com algoritmos de
 Classificação, Regressão e Clusterização, para estudar a mudança do
 comportamento da performance, a medida que os valores dos principais
 parâmetros de controle de overfitting e underfitting mudam.
+## Premissas
+O objetivo desse projeto é fazer testes e ensaios robustos com os diversos modelos de machine learning, sendo assim, análise exploratória dos dados, seleção de features e toda a etapa de processamento, não será contemplada.
 # Planejamento da solução
 ## Produto final
 O produto final será 7 tabelas mostrando a performance dos algoritmos,
@@ -108,3 +110,4 @@ Como próximos passos desse ensaio, pretendo ensaiar novos algoritmos
 de Machine Learning e usar diferentes conjuntos de dados para aumentar
 o conhecimento sobre os algoritmos e quais cenários são mais favoráveis
 para o aumento da performance dos mesmos.
+Além de fazer uma análise exploratória dos dados.
