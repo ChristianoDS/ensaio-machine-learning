@@ -12,6 +12,7 @@ comportamento da performance, a medida que os valores dos principais
 parâmetros de controle de overfitting e underfitting mudam.
 ## Premissas
 O objetivo desse projeto é fazer testes e ensaios robustos com os diversos modelos de machine learning, sendo assim, análise exploratória dos dados, seleção de features e toda a etapa de processamento, não será contemplada.
+Os dados foram gerados de forma original.
 # Planejamento da solução
 ## Produto final
 O produto final será 7 tabelas mostrando a performance dos algoritmos,
