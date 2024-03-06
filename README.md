@@ -40,23 +40,23 @@ O conjunto de valores que fizerem os algoritmos alcançarem a melhor
 performance, serão aqueles escolhidos para o treinamento final do
 algoritmo.
 ## O passo a passo
-Passo 1: Divisão dos dados em treino, teste e validação.
-Passo 2: Treinamento dos algoritmos com os dados de treinamento,
+- Passo 1: Divisão dos dados em treino, teste e validação.
+- Passo 2: Treinamento dos algoritmos com os dados de treinamento,
 utilizando os parâmetros “default”.
-Passo 3: Medir a performance dos algoritmos treinados com o parâmetro
+- Passo 3: Medir a performance dos algoritmos treinados com o parâmetro
 default, utilizando o conjunto de dados de treinamento.
-Passo 4: Medir a performance dos algoritmos treinados com o parâmetro
+- Passo 4: Medir a performance dos algoritmos treinados com o parâmetro
 “default”, utilizando o conjunto de dados de validação.
-Passo 5: Alternar os valores dos principais parâmetros que controlam o
+- Passo 5: Alternar os valores dos principais parâmetros que controlam o
 overfitting do algoritmo até encontrar o conjunto de parâmetros apresente
 a melhor performance dos algoritmos.
-Passo 6: Unir os dados de treinamento e validação
-Passo 7: Retreinar o algoritmo com a união dos dados de treinamento e
+- Passo 6: Unir os dados de treinamento e validação
+- Passo 7: Retreinar o algoritmo com a união dos dados de treinamento e
 validação, utilizando os melhores valores para os parâmetros de controle
 do algoritmo.
-Passo 8: Medir a performance dos algoritmos treinados com os melhores
+- Passo 8: Medir a performance dos algoritmos treinados com os melhores
 parâmetro, utilizando o conjunto de dados de teste.
-Passo 9: Avaliar os ensaios e anotar os 3 principais Insights que se
+- Passo 9: Avaliar os ensaios e anotar os 3 principais Insights que se
 destacaram.
 # Os top 3 Insights
 ### Insight Top 1
