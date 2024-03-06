@@ -1,7 +1,7 @@
 ![image](https://github.com/ChristianoDS/ensaio-machine-learning/assets/103225340/de0d3082-e47b-4d75-9034-1a132d273b5d)
 # Ensaio de Machine Learning
 ## Descrição
-A empresa fictíocia Data Money acredita que a expertise no treinamento e ajuste
+A empresa fictícia Data Money acredita que a expertise no treinamento e ajuste
 fino dos algoritmos, feito pelos Cientistas de Dados da empresa, é a
 principal motivo dos ótimos resultados que as consultorias vem
 entregando aos seus clientes.
